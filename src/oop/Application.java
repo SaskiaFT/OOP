@@ -64,7 +64,6 @@ public class Application {
 		user.buy("Mobile Phone");
 		user.sell("Music box");
 		user.reserve("Lamp");
-		user.getType();		
 	}
 	
 }
